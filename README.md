@@ -6,6 +6,3 @@ Kelas elektrikal dari kak alif TF'22!
 
 halo namaku keva
 ini ada tambahan buat git buat cek fitur; cek cek lagi
-
-versi 2
-versi 3
